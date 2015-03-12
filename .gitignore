@@ -1,4 +1,6 @@
-/target/
-/.settings/*
-.classpath
+/bin/
+/Servers/
 .project
+/RemoteSystemsTempFiles/
+/.metadata/
+/.settings/
