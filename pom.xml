@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.aas.competitive</groupId>
-  <artifactId>competitiveReport</artifactId>
+  <groupId>com.zzia</groupId>
+  <artifactId>609</artifactId>
   <packaging>war</packaging>
   <version>1.0.0</version>
-  <name>competitiveReport Maven Webapp</name>
+  <name>609 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -85,7 +85,7 @@
 		</dependency>
   </dependencies>
   <build>
-    <finalName>competitiveReport</finalName>
+    <finalName>609</finalName>
     <resources>
 			<resource>
 				<directory>src/main/java</directory>
